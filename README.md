@@ -309,6 +309,6 @@ H2Open - Team 08
 - Lead Engineer: Guillermo Ortega
 - Backend Developer: Memo Ortega
 
-## License
 
-Educational project for water quality monitoring coursework.
+
+
